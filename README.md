@@ -36,5 +36,5 @@ So that I can organize and plan my business
   
   ## Video demonstration
   
-   
+   ![employeeTracker](https://user-images.githubusercontent.com/16859648/109176282-9d840300-77c1-11eb-8a5d-474db261d6cb.gif)
 
